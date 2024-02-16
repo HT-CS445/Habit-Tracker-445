@@ -1,3 +1,4 @@
+import { app, firebaseConfig } from 'firebase-config'; // Path to your firebase-config.d.ts file
 import { Redirect, Route } from 'react-router-dom';
 import {
   IonApp,
